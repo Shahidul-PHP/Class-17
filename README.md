@@ -9,10 +9,10 @@
 * OBJECT IN OOP
 * INHERITENSE IN OOP
 
-* ACCEESS MODIFIER - 
----------------------
-* Public
-* Private
-* Protected
-* Abstract 
+* ACCEESS MODIFIER ->
+
+1. Public
+2. Private
+3. Protected
+4. Abstract 
 
